@@ -21,7 +21,7 @@ REST API для бронирования столиков в ресторане.
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone git@github.com:Alexstom007/zakaz.git
 cd stol
 ```
 
